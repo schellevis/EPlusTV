@@ -9,7 +9,7 @@
   "keywords": [],
   "license": "MIT",
   "dependencies": {
-    "@hono/node-server": "^1.13.1",
+    "@hono/node-server": "^1.19.15",
     "@picocss/pico": "^2.0.6",
     "@seald-io/nedb": "^4.0.4",
     "axios": "^1.2.2",
