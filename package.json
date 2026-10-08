@@ -12,7 +12,7 @@
     "@hono/node-server": "^1.13.1",
     "@picocss/pico": "^2.0.6",
     "@seald-io/nedb": "^4.0.4",
-    "axios": "^1.2.2",
+    "axios": "^1.20.0",
     "axios-curlirize": "^1.3.7",
     "cheerio": "^1.0.0",
     "crypto-js": "^4.2.0",
